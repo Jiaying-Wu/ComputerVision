@@ -2,6 +2,8 @@
 
 ## Notebook
 
+Following computer Vision Notes under the `Notebook` folder:
+
 - [CV01_Intro_CV](https://github.com/Jiaying-Wu/ComputerVision/blob/main/CV01_Intro_CV.ipynb): Applications and Datasets for Computer Vision Taks and Image filtering.
 
 - [CV02_Edge_Detection](https://github.com/Jiaying-Wu/ComputerVision/blob/main/CV02_Edge_Detection.ipynb): Image gradient, edge detectors (Sobel, Canny), Harris corner detector.
